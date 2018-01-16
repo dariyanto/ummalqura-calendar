@@ -29,7 +29,7 @@ import java.util.ListResourceBundle;
 /**
  * @author Dariyanto Rame
  */
-public class UmmalquraFormatData_en extends ListResourceBundle {
+public class UmmalquraFormatData_id extends ListResourceBundle {
 
 	@Override
 	protected Object[][] getContents() {
